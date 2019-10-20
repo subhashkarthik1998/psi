@@ -5,8 +5,8 @@
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = Psi
-PROJECT_NUMBER         =
-PROJECT_BRIEF          =
+PROJECT_NUMBER         =1
+PROJECT_BRIEF          =a
 PROJECT_LOGO           =
 OUTPUT_DIRECTORY       = doc/api/private
 CREATE_SUBDIRS         = NO
